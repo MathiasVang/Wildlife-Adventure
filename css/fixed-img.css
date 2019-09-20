@@ -1,0 +1,7 @@
+#fixed-header	{
+		width: 40px;
+		position: fixed;
+		top: 20px;
+		left: 20px;
+		z-index: 1500;
+}
